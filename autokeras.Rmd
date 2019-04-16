@@ -10,7 +10,7 @@ author:
 bibliography: bibliography.bib
 date: "`r Sys.Date()`"
 creative_commons: CC BY
-repository_url: todo
+repository_url: https://github.com/jcrodriguez1989/tf_blog_autokeras
 categories:
   - AutoML
   - Keras
